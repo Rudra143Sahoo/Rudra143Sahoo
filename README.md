@@ -6,7 +6,8 @@ Java | Spring Boot | AWS | Docker | Jenkins | Terraform | MySQL | MongoDB | Reac
 
 ## 🔹 Featured Projects  
 - [Anon-Ecommerce](https://github.com/Rudra143Sahoo/Anon-ecommerce-frontend.git) – Microservices E-Commerce Platform with AWS & DevOps  
-- [Crime Tracker](https://github.com/Rudra143Sahoo/Crime-Tracker-Backend.git) – Crime Case Showcase Site with MongoDB  
+- [Crime Tracker](https://github.com/Rudra143Sahoo/Crime-Tracker-Backend.git) – Crime Case Showcase Site with MongoDB
+- [Note Application](https://github.com/Rudra143Sahoo/NoteApp.git) 
 
 ## 📊 GitHub Stats  
 ![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudra143Sahoo&show_icons=true&theme=dark)  
